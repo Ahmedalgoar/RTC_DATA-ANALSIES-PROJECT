@@ -134,6 +134,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Your Name -Ahmedalgaor
 
 🙏 Acknowledgments
-Dataset sourced from RTC_DATA-ANALSIES-PROJECT
+Dataset sourced from RTC 
 
 Inspired by the need for better consumer understanding of laptop value propositions
